@@ -3,3 +3,4 @@ function sett() {
     img.src = "https://raw.githubusercontent.com/CodeVSC/assets.github.files/main/leftplayer.png";
     document.body.appendChild(img);
 }
+sett();
